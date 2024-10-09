@@ -13,3 +13,4 @@ AWS-SecretManager
 - npm init -y
 
 3. Then create nodejs file to test
+- node secret.js
